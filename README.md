@@ -20,7 +20,8 @@
 <h2 align="left">I code with</h2>
 
 ###
-
+<!--
+sieht komisch aus auf ios, daher erstmal raus
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
   <img width="12" />
@@ -64,3 +65,4 @@
 </div>
 
 ###
+-->
