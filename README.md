@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Alex(ander) and I'm a software developer, from Hannover (Germany)</p>
+<p align="left">My name is Alex(ander) and I’m a software developer from Hannover, Germany.</p>
 
 ###
 
