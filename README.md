@@ -10,7 +10,10 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 1983 on C=64, since 2003 with PHP/JavaScript, since 2004 with linux, since 2008 with Java, since 2024 with go<br>📚 I'm currently enhancing my Go know how<br>🎯 Goals: TBD<br>🎲 Fun fact: TBD</p>
+<p align="left">✨ Creating bugs since 1983 on C=64, since 2003 with PHP/JavaScript, since 2004 with Linux, since 2008 with Java, and since 2024 with Go<br>
+📚 I’m currently improving my Go skills<br>
+🎯 Goals: TBD<br>
+🎲 Fun fact: TBD</p>
 
 ###
 
