@@ -38,4 +38,5 @@ WWWWWWWWNkdddool:;dXXdlodddddoxXNNNWWWWWW
 WWWWWWWWXkkkxxxxO0KNNX00OkkxxdxKNWWWWWWWW
 WWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWW
 ```
+[Original Picture](https://palm.dev/blog/ki-bild-spielereien/images/AlexFigur.PNG) - just a KI fun task.
 
