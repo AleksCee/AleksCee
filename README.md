@@ -9,7 +9,7 @@
 WWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWW    alex@palm.dev
 WWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWW    -----------------
 WWWWWWWWWWWWNKkdl:;;,,,:ldOKWWWWWWWWWWWWW    OS:    macOS, Linux (Debian/Ubuntu), 
-WWWWWWWWWWOl''....'.'.......'lOWWWWWWWWWW           Proxmox VE, DSM 7.2
+WWWWWWWWWWOl''....'.'.......'lOWWWWWWWWWW           Proxmox VE, DSM 7.3
 WWWWWWWW0;..,clol:...,,;::;;...:XWWWWWWWW    Host:  MinisForum MS-01 (64GB RAM, 1TB SSD as Proxmox-Host)
 WWWWWWWO'.cO0KKXKKK000000000Od'.,KWWWWWWW    Shell: Zsh, Bash
 WWWWWWWl.cO0KXXKK00000000000Oko..xWWWWWWW    DE:    IntelliJ, VS Code, sometimes vim
